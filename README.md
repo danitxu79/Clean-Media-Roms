@@ -14,7 +14,7 @@ Se aceptan toda clase de sujerencias.
       |
       |
       |---emulator---
-                    | - CleanMedia.py
+                    | - CleanMedia.py or CleanMedia.exe
                     |
                     | - Roms - 
                               | - gamelist.xml
