@@ -13,7 +13,7 @@ Se aceptan toda clase de sujerencias.
 
       |
       |
-      |---emulator -
+      |---emulator---
                     | - CleanMedia.py
                     |
                     | - Roms - 
