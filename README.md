@@ -11,10 +11,9 @@ Hacer copia de seguridad de la carpeta "Roms" antes de usar.
 Se aceptan toda clase de sujerencias.
 
 
-root -
       |
-      1
-      1---emulator -
+      |
+      |---emulator -
                     | - CleanMedia.py
                     |
                     | - Roms - 
