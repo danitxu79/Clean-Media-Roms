@@ -25,3 +25,6 @@ Se aceptan toda clase de sujerencias.
                               | - etc...
 # Archivos compilados
 https://github.com/danitxu79/CleanMediaRoms/releases
+
+# Versión gráfica
+https://github.com/danitxu79/CleanMediaRomsQT
