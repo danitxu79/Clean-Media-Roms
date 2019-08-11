@@ -24,3 +24,4 @@ Se aceptan toda clase de sujerencias.
                               | - FolderMedia (Any name and any subdirectories
                               | - etc...
 # Archivos compilados
+https://github.com/danitxu79/CleanMediaRoms/releases
