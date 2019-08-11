@@ -23,3 +23,4 @@ Se aceptan toda clase de sujerencias.
                               | - gamelist.xml
                               | - FolderMedia (Any name and any subdirectories
                               | - etc...
+# Archivos compilados
